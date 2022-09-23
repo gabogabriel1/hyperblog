@@ -6,6 +6,6 @@ boton.addEventListener("click", hablar)
 let mensaje
 
 function hablar(){
-    mensaje = "Lo que quiero decir nuevamente"
+    mensaje = "Lo que quiero decir"
     alert(mensaje)
 }
