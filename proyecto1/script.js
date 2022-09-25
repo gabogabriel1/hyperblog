@@ -1,4 +1,4 @@
-alert("Estamos conectados")
+console.log("Estamos conectados")
 
 const boton = document.getElementById("boton")
 boton.addEventListener("click", hablar)
